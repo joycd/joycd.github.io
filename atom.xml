@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试新博客</title>
-    <link href="http://example.com/2025/10/21/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2025/10/21/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%8D%9A%E5%AE%A2/</id>
+    <link href="http://example.com/passages/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/passages/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%8D%9A%E5%AE%A2/</id>
     <published>2025-10-21T06:34:49.000Z</published>
     <updated>2025-10-21T06:34:49.541Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/10/21/hello-world/"/>
-    <id>http://example.com/2025/10/21/hello-world/</id>
+    <link href="http://example.com/passages/hello-world/"/>
+    <id>http://example.com/passages/hello-world/</id>
     <published>2025-10-21T06:27:29.382Z</published>
     <updated>2025-10-21T03:11:46.233Z</updated>
     
