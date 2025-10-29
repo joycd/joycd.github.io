@@ -6,26 +6,47 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-10-21T06:34:49.541Z</updated>
+  <updated>2025-10-25T08:20:47.490Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>JoyCd</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>.Net Application学习</title>
+    <link href="http://example.com/passages/Application%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://example.com/passages/Application%E5%AD%A6%E4%B9%A0/</id>
+    <published>2025-10-25T08:19:19.000Z</published>
+    <updated>2025-10-25T08:20:47.490Z</updated>
+    
+    
+    
+    
+    <category term=".Net Core 8.0" scheme="http://example.com/categories/Net-Core-8-0/"/>
+    
+    
+    <category term=".Net Core 8.0" scheme="http://example.com/tags/Net-Core-8-0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试新博客</title>
     <link href="http://example.com/passages/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/passages/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%8D%9A%E5%AE%A2/</id>
     <published>2025-10-21T06:34:49.000Z</published>
-    <updated>2025-10-21T06:34:49.541Z</updated>
+    <updated>2025-10-22T07:16:42.394Z</updated>
     
     
     
     
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   

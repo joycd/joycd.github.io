@@ -1,3 +1,9 @@
+http://example.com/passages/Application%E5%AD%A6%E4%B9%A0/
 http://example.com/passages/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%8D%9A%E5%AE%A2/
+http://example.com/categories/index.html
 http://example.com/passages/hello-world/
 http://example.com/
+http://example.com/tags/%E6%B5%8B%E8%AF%95/
+http://example.com/tags/Net-Core-8-0/
+http://example.com/categories/%E6%B5%8B%E8%AF%95/
+http://example.com/categories/Net-Core-8-0/
